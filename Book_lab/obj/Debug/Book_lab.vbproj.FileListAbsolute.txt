@@ -1,0 +1,17 @@
+E:\MyPro\Book_lab\Book_lab\bin\Debug\Book_lab.exe.config
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.vbprojResolveAssemblyReference.cache
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form1.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Resources.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.vbproj.GenerateResource.Cache
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.xml
+E:\MyPro\Book_lab\Book_lab\bin\Debug\Book_lab.exe
+E:\MyPro\Book_lab\Book_lab\bin\Debug\Book_lab.pdb
+E:\MyPro\Book_lab\Book_lab\bin\Debug\Book_lab.xml
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form3.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form4.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form5.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form6.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form7.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.Form8.resources
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.exe
+E:\MyPro\Book_lab\Book_lab\obj\Debug\Book_lab.pdb
